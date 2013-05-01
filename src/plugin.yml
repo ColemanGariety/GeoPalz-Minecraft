@@ -1,0 +1,23 @@
+name: GeoPalz
+version: 1.1
+main: org.vijos.auth.VijosLogin
+authors: [Breezewish]
+commands:
+    login:
+        description: Login
+        usage: /<command> [username] [password]
+        permission: vijoslogin.login
+        permission-message: No Permission
+    logout:
+        description: Logout
+        usage: /<command>
+        permission: vijoslogin.login
+        permission-message: No Permission
+permissions:
+    vijoslogin.*:
+        description: Full Permission
+        children:
+            vijoslogin.login: true
+    vijoslogin.login:
+        description: Allow user to login or logout
+        default: true

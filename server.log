@@ -1,0 +1,83 @@
+2013-04-30 17:06:52 [INFO] Starting minecraft server version 1.5.1
+2013-04-30 17:06:52 [INFO] Loading properties
+2013-04-30 17:06:52 [WARNING] server.properties does not exist
+2013-04-30 17:06:52 [INFO] Generating new properties file
+2013-04-30 17:06:52 [INFO] Default game type: SURVIVAL
+2013-04-30 17:06:52 [INFO] Generating keypair
+2013-04-30 17:06:52 [INFO] Starting Minecraft server on *:25565
+2013-04-30 17:06:52 [WARNING] **** FAILED TO BIND TO PORT!
+2013-04-30 17:06:52 [WARNING] The exception was: java.net.BindException: Address already in use
+2013-04-30 17:06:52 [WARNING] Perhaps a server is already running on that port?
+2013-04-30 17:06:58 [INFO] Stopping server
+2013-04-30 17:08:29 [INFO] Starting minecraft server version 1.5.1
+2013-04-30 17:08:29 [INFO] Loading properties
+2013-04-30 17:08:29 [INFO] Default game type: SURVIVAL
+2013-04-30 17:08:29 [INFO] Generating keypair
+2013-04-30 17:08:29 [INFO] Starting Minecraft server on *:25565
+2013-04-30 17:08:29 [WARNING] **** FAILED TO BIND TO PORT!
+2013-04-30 17:08:29 [WARNING] The exception was: java.net.BindException: Address already in use
+2013-04-30 17:08:29 [WARNING] Perhaps a server is already running on that port?
+2013-04-30 17:08:35 [INFO] Stopping server
+2013-04-30 17:09:38 [INFO] Starting minecraft server version 1.5.1
+2013-04-30 17:09:38 [INFO] Loading properties
+2013-04-30 17:09:38 [INFO] Default game type: SURVIVAL
+2013-04-30 17:09:38 [INFO] Generating keypair
+2013-04-30 17:09:38 [INFO] Starting Minecraft server on *:25565
+2013-04-30 17:09:39 [INFO] This server is running CraftBukkit version git-Bukkit-1.5.1-R0.1-21-g49b0699-b2754jnks (MC: 1.5.1) (Implementing API version 1.5.1-R0.2)
+2013-04-30 17:09:39 [WARNING] Failed to load operators list: java.io.FileNotFoundException: ./ops.txt (No such file or directory)
+2013-04-30 17:09:39 [WARNING] Failed to load white-list: java.io.FileNotFoundException: ./white-list.txt (No such file or directory)
+2013-04-30 17:09:39 [INFO] Preparing level "world"
+2013-04-30 17:09:39 [INFO] Preparing start region for level 0 (Seed: -5768429745451016135)
+2013-04-30 17:09:40 [INFO] Preparing spawn area: 12%
+2013-04-30 17:09:40 [INFO] ----- Bukkit Auto Updater -----
+2013-04-30 17:09:40 [INFO] It appears that you're running a Beta Build, when you've specified in bukkit.yml that you prefer to run Recommended Builds.
+2013-04-30 17:09:40 [INFO] If you would like to be kept informed about new Beta Build releases, it is recommended that you change 'preferred-channel' in your bukkit.yml to 'beta'.
+2013-04-30 17:09:40 [INFO] With that set, you will be told whenever a new version is available for download, so that you can always keep up to date and secure with the latest fixes.
+2013-04-30 17:09:40 [INFO] If you would like to disable this warning, simply set 'suggest-channels' to false in bukkit.yml.
+2013-04-30 17:09:40 [INFO] ----- ------------------- -----
+2013-04-30 17:09:41 [INFO] Preparing spawn area: 37%
+2013-04-30 17:09:42 [INFO] Preparing spawn area: 62%
+2013-04-30 17:09:43 [INFO] Preparing spawn area: 83%
+2013-04-30 17:09:44 [INFO] Preparing start region for level 1 (Seed: -5768429745451016135)
+2013-04-30 17:09:44 [INFO] Preparing spawn area: 0%
+2013-04-30 17:09:45 [INFO] Preparing spawn area: 24%
+2013-04-30 17:09:46 [INFO] Preparing spawn area: 53%
+2013-04-30 17:09:47 [INFO] Preparing spawn area: 79%
+2013-04-30 17:09:48 [INFO] Preparing start region for level 2 (Seed: -5768429745451016135)
+2013-04-30 17:09:48 [INFO] Preparing spawn area: 20%
+2013-04-30 17:09:49 [INFO] Preparing spawn area: 87%
+2013-04-30 17:09:49 [INFO] Done (10.675s)! For help, type "help" or "?"
+2013-04-30 17:10:01 [INFO] JacksonGariety[/127.0.0.1:56812] logged in with entity id 5974 at ([world] 202.5, 64.0, 249.5)
+2013-04-30 17:10:25 [INFO] CONSOLE: Kicked player JacksonGariety. With reason:
+Kicked by an operator.[m
+2013-04-30 17:10:31 [INFO] JacksonGariety[/127.0.0.1:56825] logged in with entity id 6917 at ([world] 229.2979725745363, 66.0, 272.2692657285039)
+2013-04-30 17:12:23 [INFO] Starting minecraft server version 1.5.1
+2013-04-30 17:12:23 [INFO] Loading properties
+2013-04-30 17:12:23 [INFO] Default game type: SURVIVAL
+2013-04-30 17:12:23 [INFO] Generating keypair
+2013-04-30 17:12:23 [INFO] Starting Minecraft server on *:25565
+2013-04-30 17:12:24 [INFO] This server is running CraftBukkit version git-Bukkit-1.5.1-R0.1-21-g49b0699-b2754jnks (MC: 1.5.1) (Implementing API version 1.5.1-R0.2)
+2013-04-30 17:12:24 [INFO] [GeoPalz] Loading GeoPalz v1.1
+2013-04-30 17:12:24 [INFO] Preparing level "world"
+2013-04-30 17:12:24 [INFO] Preparing start region for level 0 (Seed: -5768429745451016135)
+2013-04-30 17:12:25 [INFO] Preparing spawn area: 70%
+2013-04-30 17:12:25 [INFO] ----- Bukkit Auto Updater -----
+2013-04-30 17:12:25 [INFO] It appears that you're running a Beta Build, when you've specified in bukkit.yml that you prefer to run Recommended Builds.
+2013-04-30 17:12:25 [INFO] If you would like to be kept informed about new Beta Build releases, it is recommended that you change 'preferred-channel' in your bukkit.yml to 'beta'.
+2013-04-30 17:12:25 [INFO] With that set, you will be told whenever a new version is available for download, so that you can always keep up to date and secure with the latest fixes.
+2013-04-30 17:12:25 [INFO] If you would like to disable this warning, simply set 'suggest-channels' to false in bukkit.yml.
+2013-04-30 17:12:25 [INFO] ----- ------------------- -----
+2013-04-30 17:12:26 [INFO] Preparing start region for level 1 (Seed: -5768429745451016135)
+2013-04-30 17:12:26 [INFO] Preparing spawn area: 66%
+2013-04-30 17:12:27 [INFO] Preparing start region for level 2 (Seed: -5768429745451016135)
+2013-04-30 17:12:27 [INFO] [GeoPalz] Enabling GeoPalz v1.1
+2013-04-30 17:12:27 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2013-04-30 17:12:27 [INFO] Done (3.321s)! For help, type "help" or "?"
+2013-04-30 17:12:36 [INFO] JacksonGariety[/127.0.0.1:56852] logged in with entity id 313 at ([world] 227.39557677949986, 64.0, 244.5497660825426)
+2013-04-30 17:12:43 [INFO] JacksonGariety issued server command: /login 1 2
+2013-04-30 17:12:44 [INFO] [GeoPalz] JacksonGariety[127.0.0.1] logged in
+2013-04-30 17:13:30 [INFO] [GeoPalz] 1 played for 46 seconds.
+2013-04-30 17:13:31 [INFO] [GeoPalz] {"status":1,"error_type":"1","error_msg":"invalid game token"}
+2013-04-30 17:13:31 [INFO] CONSOLE: Kicked player JacksonGariety. With reason:
+Kicked by an operator.[m
+2013-04-30 17:16:53 [INFO] Stopping server
