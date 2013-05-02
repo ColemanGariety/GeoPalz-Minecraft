@@ -34,7 +34,7 @@ public class LoginListener implements Listener {
 		final Player player = event.getPlayer();
 		String username = Sessions.i().usernames.get(player.getName().toLowerCase());
 		String password = Sessions.i().passwords.get(player.getName().toLowerCase());
-		int played_time = Sessions.i().played_times.get(player.getName().toLowerCase());
+		int played_time = Integer.valueOf(Sessions.i().played_times.get(player.getName().toLowerCase()));
 				
 		if (!Sessions.i().getLogin(player) && Sessions.i().locations.containsKey(player.getName().toLowerCase()))
 			player.teleport(Sessions.i().locations.get(player.getName().toLowerCase()));

@@ -15,7 +15,6 @@ import org.vijos.auth.lib.ConsoleLogger;
 import org.vijos.auth.listener.BlockListener;
 import org.vijos.auth.listener.PlayerListener;
 import org.vijos.auth.listener.LoginListener;
-import org.vijos.auth.lib.Hash;
 import org.vijos.auth.lib.Sender;
 
 public class VijosLogin extends JavaPlugin {
@@ -32,7 +31,6 @@ public class VijosLogin extends JavaPlugin {
 		new Settings();
 		new API();
 		new ConsoleLogger();
-		new Hash();
 		new Sender();
 		new CommandMain();
 		new Messages();
