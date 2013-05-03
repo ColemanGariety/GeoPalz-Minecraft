@@ -9,9 +9,7 @@ import org.bukkit.event.player.PlayerQuitEvent;
 
 import org.vijos.auth.VijosLogin;
 import org.vijos.auth.data.Sessions;
-import org.vijos.auth.lib.ConsoleLogger;
 import org.vijos.auth.thread.StatusThread;
-import org.vijos.auth.lib.API;
 
 public class LoginListener implements Listener {
 	
@@ -32,9 +30,6 @@ public class LoginListener implements Listener {
 	@EventHandler(priority = EventPriority.MONITOR)
 	public void onPlayerQuit(PlayerQuitEvent event) {
 		final Player player = event.getPlayer();
-		String username = Sessions.i().usernames.get(player.getName().toLowerCase());
-		String password = Sessions.i().passwords.get(player.getName().toLowerCase());
-		int played_time = Integer.valueOf(Sessions.i().played_times.get(player.getName().toLowerCase()));
 				
 		if (!Sessions.i().getLogin(player) && Sessions.i().locations.containsKey(player.getName().toLowerCase()))
 			player.teleport(Sessions.i().locations.get(player.getName().toLowerCase()));
@@ -43,10 +38,6 @@ public class LoginListener implements Listener {
 			Sessions.i().locations.remove(player.getName().toLowerCase());
 		
 		Sessions.i().delLogin(player);
-		
-		ConsoleLogger.i().info(username + " played for " + String.valueOf(played_time) + " seconds.");
-	
-		API.i().sendTime(username, password, played_time);
 	}
 	
 }

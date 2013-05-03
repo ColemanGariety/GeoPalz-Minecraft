@@ -6789,3 +6789,520 @@ Caused by: java.lang.NullPointerException
 2013-05-02 12:00:05 [INFO] [GeoPalz] farts played for 22 seconds.
 2013-05-02 12:00:06 [INFO] [GeoPalz] {"status":0,"data":"OK"}
 2013-05-02 12:05:15 [INFO] Stopping server
+2013-05-02 12:20:15 [INFO] Starting minecraft server version 1.5.2
+2013-05-02 12:20:15 [INFO] Loading properties
+2013-05-02 12:20:15 [INFO] Default game type: SURVIVAL
+2013-05-02 12:20:15 [INFO] Generating keypair
+2013-05-02 12:20:15 [INFO] Starting Minecraft server on *:25565
+2013-05-02 12:20:16 [INFO] This server is running CraftBukkit version git-Bukkit-1.5.1-R0.2-11-g8205884-b2765jnks (MC: 1.5.2) (Implementing API version 1.5.2-R0.1-SNAPSHOT)
+2013-05-02 12:20:16 [INFO] [GriefPrevention] Loading GriefPrevention v7.7
+2013-05-02 12:20:16 [INFO] [GeoPalz] Loading GeoPalz v1.1
+2013-05-02 12:20:16 [INFO] Preparing level "world"
+2013-05-02 12:20:16 [INFO] Preparing start region for level 0 (Seed: 7690574297994991252)
+2013-05-02 12:20:17 [INFO] ----- Bukkit Auto Updater -----
+2013-05-02 12:20:17 [INFO] It appears that you're running a Development Build, when you've specified in bukkit.yml that you prefer to run Recommended Builds.
+2013-05-02 12:20:17 [INFO] If you would like to be kept informed about new Development Build releases, it is recommended that you change 'preferred-channel' in your bukkit.yml to 'dev'.
+2013-05-02 12:20:17 [INFO] With that set, you will be told whenever a new version is available for download, so that you can always keep up to date and secure with the latest fixes.
+2013-05-02 12:20:17 [INFO] If you would like to disable this warning, simply set 'suggest-channels' to false in bukkit.yml.
+2013-05-02 12:20:17 [INFO] ----- ------------------- -----
+2013-05-02 12:20:17 [INFO] Preparing spawn area: 74%
+2013-05-02 12:20:17 [INFO] Preparing start region for level 1 (Seed: 7690574297994991252)
+2013-05-02 12:20:18 [INFO] Preparing spawn area: 74%
+2013-05-02 12:20:18 [INFO] Preparing start region for level 2 (Seed: 7690574297994991252)
+2013-05-02 12:20:19 [INFO] [GriefPrevention] Enabling GriefPrevention v7.7
+2013-05-02 12:20:19 [INFO] GriefPrevention: Grief Prevention enabled.
+2013-05-02 12:20:19 [INFO] GriefPrevention: 0 total claims loaded.
+2013-05-02 12:20:19 [INFO] GriefPrevention: 0 players have staked claims.
+2013-05-02 12:20:19 [INFO] [GeoPalz] Enabling GeoPalz v1.1
+2013-05-02 12:20:20 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2013-05-02 12:20:20 [INFO] Done (3.737s)! For help, type "help" or "?"
+2013-05-02 12:20:28 [INFO] JacksonGariety[/127.0.0.1:62925] logged in with entity id 142 at ([world] -248.85781757622246, 64.0, 75.88125989751198)
+2013-05-02 12:20:32 [INFO] JacksonGariety issued server command: /login farts qwerty
+2013-05-02 12:20:33 [INFO] [GeoPalz] 235
+2013-05-02 12:20:33 [INFO] [GeoPalz] JacksonGariety[127.0.0.1] logged in
+2013-05-02 12:20:36 [INFO] JacksonGariety issued server command: /logout
+2013-05-02 12:20:36 [INFO] [GeoPalz] farts played for 3 seconds.
+2013-05-02 12:20:37 [INFO] [GeoPalz] {"status":0,"data":"OK"}
+2013-05-02 12:20:40 [INFO] JacksonGariety issued server command: /login farts qwerty
+2013-05-02 12:20:41 [INFO] [GeoPalz] 232
+2013-05-02 12:20:41 [INFO] [GeoPalz] JacksonGariety[127.0.0.1] logged in
+2013-05-02 12:21:20 [INFO] JacksonGariety lost connection: disconnect.quitting
+2013-05-02 12:21:20 [INFO] Connection reset
+2013-05-02 12:21:20 [INFO] [GeoPalz] farts played for 47 seconds.
+2013-05-02 12:21:20 [INFO] [GeoPalz] {"status":0,"data":"OK"}
+2013-05-02 12:21:25 [INFO] Stopping server
+2013-05-02 12:23:04 [INFO] Starting minecraft server version 1.5.2
+2013-05-02 12:23:04 [INFO] Loading properties
+2013-05-02 12:23:04 [INFO] Default game type: SURVIVAL
+2013-05-02 12:23:04 [INFO] Generating keypair
+2013-05-02 12:23:04 [INFO] Starting Minecraft server on *:25565
+2013-05-02 12:23:05 [INFO] This server is running CraftBukkit version git-Bukkit-1.5.1-R0.2-11-g8205884-b2765jnks (MC: 1.5.2) (Implementing API version 1.5.2-R0.1-SNAPSHOT)
+2013-05-02 12:23:05 [INFO] [GriefPrevention] Loading GriefPrevention v7.7
+2013-05-02 12:23:05 [INFO] [GeoPalz] Loading GeoPalz v1.1
+2013-05-02 12:23:05 [INFO] Preparing level "world"
+2013-05-02 12:23:06 [INFO] Preparing start region for level 0 (Seed: 7690574297994991252)
+2013-05-02 12:23:06 [INFO] ----- Bukkit Auto Updater -----
+2013-05-02 12:23:06 [INFO] It appears that you're running a Development Build, when you've specified in bukkit.yml that you prefer to run Recommended Builds.
+2013-05-02 12:23:06 [INFO] If you would like to be kept informed about new Development Build releases, it is recommended that you change 'preferred-channel' in your bukkit.yml to 'dev'.
+2013-05-02 12:23:06 [INFO] With that set, you will be told whenever a new version is available for download, so that you can always keep up to date and secure with the latest fixes.
+2013-05-02 12:23:06 [INFO] If you would like to disable this warning, simply set 'suggest-channels' to false in bukkit.yml.
+2013-05-02 12:23:06 [INFO] ----- ------------------- -----
+2013-05-02 12:23:07 [INFO] Preparing spawn area: 41%
+2013-05-02 12:23:07 [INFO] Preparing start region for level 1 (Seed: 7690574297994991252)
+2013-05-02 12:23:08 [INFO] Preparing spawn area: 54%
+2013-05-02 12:23:08 [INFO] Preparing start region for level 2 (Seed: 7690574297994991252)
+2013-05-02 12:23:08 [INFO] [GriefPrevention] Enabling GriefPrevention v7.7
+2013-05-02 12:23:08 [INFO] GriefPrevention: Grief Prevention enabled.
+2013-05-02 12:23:09 [INFO] GriefPrevention: 0 total claims loaded.
+2013-05-02 12:23:09 [INFO] GriefPrevention: 0 players have staked claims.
+2013-05-02 12:23:10 [INFO] [GeoPalz] Enabling GeoPalz v1.1
+2013-05-02 12:23:10 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2013-05-02 12:23:10 [INFO] Done (4.748s)! For help, type "help" or "?"
+2013-05-02 12:23:24 [INFO] JacksonGariety[/127.0.0.1:62965] logged in with entity id 149 at ([world] -245.59729345436483, 65.0, 68.24424037344461)
+2013-05-02 12:23:32 [INFO] JacksonGariety issued server command: /login qwerty farts
+2013-05-02 12:23:33 [INFO] [GeoPalz] -1
+2013-05-02 12:23:37 [INFO] JacksonGariety issued server command: /login farts qwerty
+2013-05-02 12:23:38 [INFO] [GeoPalz] 185
+2013-05-02 12:23:38 [INFO] [GeoPalz] JacksonGariety[127.0.0.1] logged in
+2013-05-02 12:23:40 [INFO] JacksonGariety issued server command: /logout
+2013-05-02 12:23:40 [INFO] [GeoPalz] farts played for 3 seconds.
+2013-05-02 12:23:41 [INFO] [GeoPalz] {"status":0,"data":"OK"}
+2013-05-02 12:23:45 [INFO] JacksonGariety issued server command: /login farts qwerty
+2013-05-02 12:23:45 [INFO] [GeoPalz] 182
+2013-05-02 12:23:45 [INFO] [GeoPalz] JacksonGariety[127.0.0.1] logged in
+2013-05-02 12:23:47 [INFO] JacksonGariety lost connection: disconnect.quitting
+2013-05-02 12:23:47 [INFO] Connection reset
+2013-05-02 12:23:47 [INFO] [GeoPalz] farts played for 3 seconds.
+2013-05-02 12:23:47 [INFO] [GeoPalz] {"status":0,"data":"OK"}
+2013-05-02 12:24:24 [INFO] /127.0.0.1:62979 lost connection
+2013-05-02 12:30:46 [INFO] [GeoPalz] Disabling GeoPalz v1.1
+2013-05-02 12:30:46 [INFO] [GeoPalz] Plugin disabled.
+2013-05-02 12:30:46 [INFO] [GriefPrevention] Disabling GriefPrevention v7.7
+2013-05-02 12:30:46 [INFO] GriefPrevention: GriefPrevention disabled.
+2013-05-02 12:30:46 [INFO] 229 recipes
+2013-05-02 12:30:46 [INFO] [GriefPrevention] Loading GriefPrevention v7.7
+2013-05-02 12:30:46 [INFO] [GeoPalz] Loading GeoPalz v1.1
+2013-05-02 12:30:46 [INFO] [GriefPrevention] Enabling GriefPrevention v7.7
+2013-05-02 12:30:46 [INFO] GriefPrevention: Grief Prevention enabled.
+2013-05-02 12:30:46 [INFO] GriefPrevention: 0 total claims loaded.
+2013-05-02 12:30:46 [INFO] GriefPrevention: 0 players have staked claims.
+2013-05-02 12:30:46 [INFO] [GeoPalz] Enabling GeoPalz v1.1
+2013-05-02 12:30:46 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2013-05-02 12:30:46 [INFO] CONSOLE: [0;32;1mReload complete.[m
+2013-05-02 12:30:51 [INFO] JacksonGariety[/127.0.0.1:63287] logged in with entity id 208 at ([world] -252.0, 64.0, 67.0)
+2013-05-02 12:30:56 [INFO] JacksonGariety issued server command: /login farts qwerty
+2013-05-02 12:30:56 [INFO] [GeoPalz] 1335
+2013-05-02 12:30:56 [INFO] [GeoPalz] JacksonGariety[127.0.0.1] logged in
+2013-05-02 12:30:56 [INFO] [GeoPalz] 1
+2013-05-02 12:30:57 [INFO] [GeoPalz] 2
+2013-05-02 12:30:58 [INFO] [GeoPalz] 3
+2013-05-02 12:30:59 [INFO] [GeoPalz] 4
+2013-05-02 12:31:00 [INFO] [GeoPalz] 5
+2013-05-02 12:31:01 [INFO] [GeoPalz] 6
+2013-05-02 12:31:02 [INFO] [GeoPalz] 7
+2013-05-02 12:31:03 [INFO] [GeoPalz] 8
+2013-05-02 12:31:04 [INFO] [GeoPalz] 9
+2013-05-02 12:31:05 [INFO] JacksonGariety issued server command: /logout
+2013-05-02 12:31:05 [INFO] [GeoPalz] farts played for 9 seconds.
+2013-05-02 12:31:05 [INFO] [GeoPalz] {"status":0,"data":"OK"}
+2013-05-02 12:31:05 [INFO] [GeoPalz] 10
+2013-05-02 12:31:06 [INFO] [GeoPalz] 11
+2013-05-02 12:31:07 [INFO] [GeoPalz] 12
+2013-05-02 12:31:08 [INFO] [GeoPalz] 13
+2013-05-02 12:31:09 [INFO] [GeoPalz] 14
+2013-05-02 12:31:10 [INFO] [GeoPalz] 15
+2013-05-02 12:31:11 [INFO] [GeoPalz] 16
+2013-05-02 12:31:12 [INFO] [GeoPalz] 17
+2013-05-02 12:31:13 [INFO] [GeoPalz] 18
+2013-05-02 12:31:14 [INFO] Stopping server
+2013-05-02 12:51:51 [INFO] Starting minecraft server version 1.5.2
+2013-05-02 12:51:51 [INFO] Loading properties
+2013-05-02 12:51:51 [INFO] Default game type: SURVIVAL
+2013-05-02 12:51:51 [INFO] Generating keypair
+2013-05-02 12:51:51 [INFO] Starting Minecraft server on *:25565
+2013-05-02 12:51:52 [INFO] This server is running CraftBukkit version git-Bukkit-1.5.1-R0.2-11-g8205884-b2765jnks (MC: 1.5.2) (Implementing API version 1.5.2-R0.1-SNAPSHOT)
+2013-05-02 12:51:52 [INFO] [GriefPrevention] Loading GriefPrevention v7.7
+2013-05-02 12:51:52 [INFO] [GeoPalz] Loading GeoPalz v1.1
+2013-05-02 12:51:52 [INFO] Preparing level "world"
+2013-05-02 12:51:53 [INFO] Preparing start region for level 0 (Seed: 7690574297994991252)
+2013-05-02 12:51:53 [INFO] ----- Bukkit Auto Updater -----
+2013-05-02 12:51:53 [INFO] It appears that you're running a Development Build, when you've specified in bukkit.yml that you prefer to run Recommended Builds.
+2013-05-02 12:51:53 [INFO] If you would like to be kept informed about new Development Build releases, it is recommended that you change 'preferred-channel' in your bukkit.yml to 'dev'.
+2013-05-02 12:51:53 [INFO] With that set, you will be told whenever a new version is available for download, so that you can always keep up to date and secure with the latest fixes.
+2013-05-02 12:51:53 [INFO] If you would like to disable this warning, simply set 'suggest-channels' to false in bukkit.yml.
+2013-05-02 12:51:53 [INFO] ----- ------------------- -----
+2013-05-02 12:51:54 [INFO] Preparing spawn area: 41%
+2013-05-02 12:51:54 [INFO] Preparing start region for level 1 (Seed: 7690574297994991252)
+2013-05-02 12:51:55 [INFO] Preparing spawn area: 12%
+2013-05-02 12:51:56 [INFO] Preparing spawn area: 78%
+2013-05-02 12:51:56 [INFO] Preparing start region for level 2 (Seed: 7690574297994991252)
+2013-05-02 12:51:57 [INFO] [GriefPrevention] Enabling GriefPrevention v7.7
+2013-05-02 12:51:57 [INFO] GriefPrevention: Grief Prevention enabled.
+2013-05-02 12:51:57 [INFO] GriefPrevention: 0 total claims loaded.
+2013-05-02 12:51:57 [INFO] GriefPrevention: 0 players have staked claims.
+2013-05-02 12:51:58 [INFO] [GeoPalz] Enabling GeoPalz v1.1
+2013-05-02 12:51:58 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2013-05-02 12:51:59 [INFO] Done (6.628s)! For help, type "help" or "?"
+2013-05-02 12:51:59 [INFO] /127.0.0.1:64616 lost connection
+2013-05-02 12:52:09 [INFO] JacksonGariety[/127.0.0.1:64617] logged in with entity id 137 at ([world] -252.0, 64.0, 67.0)
+2013-05-02 12:52:13 [INFO] JacksonGariety issued server command: /login farts qwerty
+2013-05-02 12:52:15 [INFO] [GeoPalz] 1326
+2013-05-02 12:52:15 [INFO] [GeoPalz] JacksonGariety[127.0.0.1] logged in
+2013-05-02 12:52:15 [INFO] [GeoPalz] null
+2013-05-02 12:52:16 [INFO] [GeoPalz] null
+2013-05-02 12:52:17 [INFO] [GeoPalz] null
+2013-05-02 12:52:18 [INFO] [GeoPalz] null
+2013-05-02 12:52:19 [INFO] [GeoPalz] null
+2013-05-02 12:52:20 [INFO] [GeoPalz] null
+2013-05-02 12:52:21 [INFO] [GeoPalz] null
+2013-05-02 12:52:21 [INFO] JacksonGariety issued server command: /logout
+2013-05-02 12:52:21 [SEVERE] null
+org.bukkit.command.CommandException: Unhandled exception executing command 'logout' in plugin GeoPalz v1.1
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46)
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:189)
+	at org.bukkit.craftbukkit.v1_5_R3.CraftServer.dispatchCommand(CraftServer.java:523)
+	at net.minecraft.server.v1_5_R3.PlayerConnection.handleCommand(PlayerConnection.java:966)
+	at net.minecraft.server.v1_5_R3.PlayerConnection.chat(PlayerConnection.java:884)
+	at net.minecraft.server.v1_5_R3.PlayerConnection.a(PlayerConnection.java:841)
+	at net.minecraft.server.v1_5_R3.Packet3Chat.handle(Packet3Chat.java:44)
+	at net.minecraft.server.v1_5_R3.NetworkManager.b(NetworkManager.java:292)
+	at net.minecraft.server.v1_5_R3.PlayerConnection.d(PlayerConnection.java:110)
+	at net.minecraft.server.v1_5_R3.ServerConnection.b(SourceFile:35)
+	at net.minecraft.server.v1_5_R3.DedicatedServerConnection.b(SourceFile:30)
+	at net.minecraft.server.v1_5_R3.MinecraftServer.r(MinecraftServer.java:581)
+	at net.minecraft.server.v1_5_R3.DedicatedServer.r(DedicatedServer.java:226)
+	at net.minecraft.server.v1_5_R3.MinecraftServer.q(MinecraftServer.java:477)
+	at net.minecraft.server.v1_5_R3.MinecraftServer.run(MinecraftServer.java:410)
+	at net.minecraft.server.v1_5_R3.ThreadServerApplication.run(SourceFile:573)
+Caused by: java.lang.NullPointerException
+	at org.vijos.auth.command.CommandLogout.onCommand(CommandLogout.java:26)
+	at org.vijos.auth.command.CommandMain.onCommand(CommandMain.java:32)
+	at org.vijos.auth.VijosLogin.onCommand(VijosLogin.java:59)
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44)
+	... 15 more
+2013-05-02 12:52:22 [INFO] [GeoPalz] null
+2013-05-02 12:52:23 [INFO] [GeoPalz] null
+2013-05-02 12:52:24 [INFO] [GeoPalz] null
+2013-05-02 12:52:25 [INFO] [GeoPalz] null
+2013-05-02 12:52:26 [INFO] [GeoPalz] null
+2013-05-02 12:52:27 [INFO] [GeoPalz] null
+2013-05-02 12:52:28 [INFO] [GeoPalz] null
+2013-05-02 12:52:29 [INFO] [GeoPalz] null
+2013-05-02 12:52:30 [INFO] [GeoPalz] null
+2013-05-02 12:52:31 [INFO] [GeoPalz] null
+2013-05-02 12:52:32 [INFO] [GeoPalz] null
+2013-05-02 12:52:33 [INFO] [GeoPalz] null
+2013-05-02 12:52:34 [INFO] [GeoPalz] null
+2013-05-02 12:52:35 [INFO] [GeoPalz] null
+2013-05-02 12:52:36 [INFO] [GeoPalz] null
+2013-05-02 12:52:37 [INFO] [GeoPalz] null
+2013-05-02 12:52:38 [INFO] [GeoPalz] null
+2013-05-02 12:52:39 [INFO] [GeoPalz] null
+2013-05-02 12:52:40 [INFO] [GeoPalz] null
+2013-05-02 12:52:41 [INFO] [GeoPalz] null
+2013-05-02 12:52:42 [INFO] [GeoPalz] null
+2013-05-02 12:52:43 [INFO] [GeoPalz] null
+2013-05-02 12:52:44 [INFO] [GeoPalz] null
+2013-05-02 12:52:45 [INFO] [GeoPalz] null
+2013-05-02 12:52:46 [INFO] [GeoPalz] null
+2013-05-02 12:52:47 [INFO] [GeoPalz] null
+2013-05-02 12:52:48 [INFO] [GeoPalz] null
+2013-05-02 12:52:49 [INFO] [GeoPalz] null
+2013-05-02 12:52:50 [INFO] [GeoPalz] null
+2013-05-02 12:52:51 [INFO] [GeoPalz] null
+2013-05-02 12:52:52 [INFO] [GeoPalz] null
+2013-05-02 12:52:53 [INFO] [GeoPalz] null
+2013-05-02 12:52:54 [INFO] [GeoPalz] null
+2013-05-02 12:52:55 [INFO] [GeoPalz] null
+2013-05-02 12:52:56 [INFO] [GeoPalz] null
+2013-05-02 12:52:57 [INFO] [GeoPalz] null
+2013-05-02 12:52:58 [INFO] [GeoPalz] null
+2013-05-02 12:52:59 [INFO] [GeoPalz] null
+2013-05-02 12:53:00 [INFO] [GeoPalz] null
+2013-05-02 12:53:01 [INFO] [GeoPalz] null
+2013-05-02 12:53:02 [INFO] [GeoPalz] null
+2013-05-02 12:53:03 [INFO] [GeoPalz] null
+2013-05-02 12:53:04 [INFO] [GeoPalz] null
+2013-05-02 12:53:05 [INFO] [GeoPalz] null
+2013-05-02 12:53:06 [INFO] [GeoPalz] null
+2013-05-02 12:53:07 [INFO] [GeoPalz] null
+2013-05-02 12:53:08 [INFO] [GeoPalz] null
+2013-05-02 12:53:09 [INFO] [GeoPalz] null
+2013-05-02 12:53:10 [INFO] [GeoPalz] null
+2013-05-02 12:53:11 [INFO] [GeoPalz] null
+2013-05-02 12:53:12 [INFO] [GeoPalz] null
+2013-05-02 12:53:13 [INFO] [GeoPalz] null
+2013-05-02 12:53:14 [INFO] [GeoPalz] null
+2013-05-02 12:53:15 [INFO] [GeoPalz] null
+2013-05-02 12:53:16 [INFO] [GeoPalz] null
+2013-05-02 12:53:17 [INFO] [GeoPalz] null
+2013-05-02 12:53:18 [INFO] [GeoPalz] null
+2013-05-02 12:53:19 [INFO] [GeoPalz] null
+2013-05-02 12:53:20 [INFO] [GeoPalz] null
+2013-05-02 12:53:21 [INFO] [GeoPalz] null
+2013-05-02 12:53:22 [INFO] [GeoPalz] null
+2013-05-02 12:53:23 [INFO] [GeoPalz] Disabling GeoPalz v1.1
+2013-05-02 12:53:23 [INFO] [GeoPalz] Plugin disabled.
+2013-05-02 12:53:23 [INFO] [GriefPrevention] Disabling GriefPrevention v7.7
+2013-05-02 12:53:23 [INFO] GriefPrevention: GriefPrevention disabled.
+2013-05-02 12:53:23 [INFO] 229 recipes
+2013-05-02 12:53:23 [INFO] [GriefPrevention] Loading GriefPrevention v7.7
+2013-05-02 12:53:23 [INFO] [GeoPalz] Loading GeoPalz v1.1
+2013-05-02 12:53:23 [INFO] [GriefPrevention] Enabling GriefPrevention v7.7
+2013-05-02 12:53:23 [INFO] GriefPrevention: Grief Prevention enabled.
+2013-05-02 12:53:23 [INFO] GriefPrevention: 0 total claims loaded.
+2013-05-02 12:53:23 [INFO] GriefPrevention: 0 players have staked claims.
+2013-05-02 12:53:23 [INFO] [GeoPalz] Enabling GeoPalz v1.1
+2013-05-02 12:53:23 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2013-05-02 12:53:23 [INFO] CONSOLE: [0;32;1mReload complete.[m
+2013-05-02 12:53:32 [INFO] JacksonGariety lost connection: disconnect.quitting
+2013-05-02 12:53:32 [INFO] Connection reset
+2013-05-02 12:53:32 [SEVERE] Could not pass event PlayerQuitEvent to GeoPalz v1.1
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:427)
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:477)
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:462)
+	at net.minecraft.server.v1_5_R3.PlayerList.disconnect(PlayerList.java:254)
+	at net.minecraft.server.v1_5_R3.PlayerConnection.a(PlayerConnection.java:692)
+	at net.minecraft.server.v1_5_R3.NetworkManager.b(NetworkManager.java:297)
+	at net.minecraft.server.v1_5_R3.PlayerConnection.d(PlayerConnection.java:110)
+	at net.minecraft.server.v1_5_R3.ServerConnection.b(SourceFile:35)
+	at net.minecraft.server.v1_5_R3.DedicatedServerConnection.b(SourceFile:30)
+	at net.minecraft.server.v1_5_R3.MinecraftServer.r(MinecraftServer.java:581)
+	at net.minecraft.server.v1_5_R3.DedicatedServer.r(DedicatedServer.java:226)
+	at net.minecraft.server.v1_5_R3.MinecraftServer.q(MinecraftServer.java:477)
+	at net.minecraft.server.v1_5_R3.MinecraftServer.run(MinecraftServer.java:410)
+	at net.minecraft.server.v1_5_R3.ThreadServerApplication.run(SourceFile:573)
+Caused by: java.lang.NullPointerException
+	at org.vijos.auth.listener.LoginListener.onPlayerQuit(LoginListener.java:37)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:601)
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:425)
+	... 14 more
+2013-05-02 12:53:33 [INFO] /127.0.0.1:64624 lost connection
+2013-05-02 12:53:35 [INFO] Disconnecting JacksonGariety [/127.0.0.1:64626]: You must wait 1 more minutes before logging-in again.
+2013-05-02 12:53:44 [INFO] Disconnecting JacksonGariety [/127.0.0.1:64634]: You must wait 1 more minutes before logging-in again.
+2013-05-02 12:53:49 [INFO] Stopping server
+2013-05-02 12:54:20 [INFO] Starting minecraft server version 1.5.2
+2013-05-02 12:54:20 [INFO] Loading properties
+2013-05-02 12:54:20 [INFO] Default game type: SURVIVAL
+2013-05-02 12:54:20 [INFO] Generating keypair
+2013-05-02 12:54:20 [INFO] Starting Minecraft server on *:25565
+2013-05-02 12:54:20 [INFO] This server is running CraftBukkit version git-Bukkit-1.5.1-R0.2-11-g8205884-b2765jnks (MC: 1.5.2) (Implementing API version 1.5.2-R0.1-SNAPSHOT)
+2013-05-02 12:54:21 [INFO] [GriefPrevention] Loading GriefPrevention v7.7
+2013-05-02 12:54:21 [INFO] [GeoPalz] Loading GeoPalz v1.1
+2013-05-02 12:54:21 [INFO] Preparing level "world"
+2013-05-02 12:54:21 [INFO] Preparing start region for level 0 (Seed: 7690574297994991252)
+2013-05-02 12:54:22 [INFO] ----- Bukkit Auto Updater -----
+2013-05-02 12:54:22 [INFO] It appears that you're running a Development Build, when you've specified in bukkit.yml that you prefer to run Recommended Builds.
+2013-05-02 12:54:22 [INFO] If you would like to be kept informed about new Development Build releases, it is recommended that you change 'preferred-channel' in your bukkit.yml to 'dev'.
+2013-05-02 12:54:22 [INFO] With that set, you will be told whenever a new version is available for download, so that you can always keep up to date and secure with the latest fixes.
+2013-05-02 12:54:22 [INFO] If you would like to disable this warning, simply set 'suggest-channels' to false in bukkit.yml.
+2013-05-02 12:54:22 [INFO] ----- ------------------- -----
+2013-05-02 12:54:22 [INFO] Preparing spawn area: 83%
+2013-05-02 12:54:22 [INFO] Preparing start region for level 1 (Seed: 7690574297994991252)
+2013-05-02 12:54:23 [INFO] Preparing spawn area: 95%
+2013-05-02 12:54:23 [INFO] Preparing start region for level 2 (Seed: 7690574297994991252)
+2013-05-02 12:54:23 [INFO] [GriefPrevention] Enabling GriefPrevention v7.7
+2013-05-02 12:54:23 [INFO] GriefPrevention: Grief Prevention enabled.
+2013-05-02 12:54:23 [INFO] GriefPrevention: 0 total claims loaded.
+2013-05-02 12:54:23 [INFO] GriefPrevention: 0 players have staked claims.
+2013-05-02 12:54:24 [INFO] [GeoPalz] Enabling GeoPalz v1.1
+2013-05-02 12:54:24 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2013-05-02 12:54:25 [INFO] Done (3.825s)! For help, type "help" or "?"
+2013-05-02 12:54:33 [INFO] JacksonGariety[/127.0.0.1:64648] logged in with entity id 248 at ([world] -246.79959255200134, 65.0, 67.52825419767709)
+2013-05-02 12:54:39 [INFO] JacksonGariety issued server command: /login farts qwerty
+2013-05-02 12:54:40 [INFO] [GeoPalz] 1326
+2013-05-02 12:54:40 [INFO] [GeoPalz] JacksonGariety[127.0.0.1] logged in
+2013-05-02 12:54:40 [INFO] [GeoPalz] null
+2013-05-02 12:54:41 [INFO] [GeoPalz] null
+2013-05-02 12:54:42 [INFO] [GeoPalz] null
+2013-05-02 12:54:43 [INFO] [GeoPalz] null
+2013-05-02 12:54:44 [INFO] [GeoPalz] null
+2013-05-02 12:54:45 [INFO] [GeoPalz] null
+2013-05-02 12:54:45 [INFO] JacksonGariety issued server command: /logout
+2013-05-02 12:54:45 [SEVERE] null
+org.bukkit.command.CommandException: Unhandled exception executing command 'logout' in plugin GeoPalz v1.1
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46)
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:189)
+	at org.bukkit.craftbukkit.v1_5_R3.CraftServer.dispatchCommand(CraftServer.java:523)
+	at net.minecraft.server.v1_5_R3.PlayerConnection.handleCommand(PlayerConnection.java:966)
+	at net.minecraft.server.v1_5_R3.PlayerConnection.chat(PlayerConnection.java:884)
+	at net.minecraft.server.v1_5_R3.PlayerConnection.a(PlayerConnection.java:841)
+	at net.minecraft.server.v1_5_R3.Packet3Chat.handle(Packet3Chat.java:44)
+	at net.minecraft.server.v1_5_R3.NetworkManager.b(NetworkManager.java:292)
+	at net.minecraft.server.v1_5_R3.PlayerConnection.d(PlayerConnection.java:110)
+	at net.minecraft.server.v1_5_R3.ServerConnection.b(SourceFile:35)
+	at net.minecraft.server.v1_5_R3.DedicatedServerConnection.b(SourceFile:30)
+	at net.minecraft.server.v1_5_R3.MinecraftServer.r(MinecraftServer.java:581)
+	at net.minecraft.server.v1_5_R3.DedicatedServer.r(DedicatedServer.java:226)
+	at net.minecraft.server.v1_5_R3.MinecraftServer.q(MinecraftServer.java:477)
+	at net.minecraft.server.v1_5_R3.MinecraftServer.run(MinecraftServer.java:410)
+	at net.minecraft.server.v1_5_R3.ThreadServerApplication.run(SourceFile:573)
+Caused by: java.lang.NullPointerException
+	at org.vijos.auth.command.CommandLogout.onCommand(CommandLogout.java:26)
+	at org.vijos.auth.command.CommandMain.onCommand(CommandMain.java:32)
+	at org.vijos.auth.VijosLogin.onCommand(VijosLogin.java:59)
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44)
+	... 15 more
+2013-05-02 12:54:46 [INFO] [GeoPalz] null
+2013-05-02 12:54:47 [INFO] [GeoPalz] null
+2013-05-02 12:54:48 [INFO] [GeoPalz] null
+2013-05-02 12:54:49 [INFO] [GeoPalz] null
+2013-05-02 12:54:49 [INFO] JacksonGariety lost connection: disconnect.quitting
+2013-05-02 12:54:49 [INFO] Connection reset
+2013-05-02 12:54:49 [SEVERE] Could not pass event PlayerQuitEvent to GeoPalz v1.1
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:427)
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:477)
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:462)
+	at net.minecraft.server.v1_5_R3.PlayerList.disconnect(PlayerList.java:254)
+	at net.minecraft.server.v1_5_R3.PlayerConnection.a(PlayerConnection.java:692)
+	at net.minecraft.server.v1_5_R3.NetworkManager.b(NetworkManager.java:297)
+	at net.minecraft.server.v1_5_R3.PlayerConnection.d(PlayerConnection.java:110)
+	at net.minecraft.server.v1_5_R3.ServerConnection.b(SourceFile:35)
+	at net.minecraft.server.v1_5_R3.DedicatedServerConnection.b(SourceFile:30)
+	at net.minecraft.server.v1_5_R3.MinecraftServer.r(MinecraftServer.java:581)
+	at net.minecraft.server.v1_5_R3.DedicatedServer.r(DedicatedServer.java:226)
+	at net.minecraft.server.v1_5_R3.MinecraftServer.q(MinecraftServer.java:477)
+	at net.minecraft.server.v1_5_R3.MinecraftServer.run(MinecraftServer.java:410)
+	at net.minecraft.server.v1_5_R3.ThreadServerApplication.run(SourceFile:573)
+Caused by: java.lang.NullPointerException
+	at org.vijos.auth.listener.LoginListener.onPlayerQuit(LoginListener.java:37)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:601)
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:425)
+	... 14 more
+2013-05-02 12:54:50 [INFO] [GeoPalz] null
+2013-05-02 12:54:51 [INFO] [GeoPalz] null
+2013-05-02 12:54:52 [INFO] [GeoPalz] null
+2013-05-02 12:54:53 [INFO] [GeoPalz] null
+2013-05-02 12:54:54 [INFO] [GeoPalz] null
+2013-05-02 12:54:55 [INFO] [GeoPalz] null
+2013-05-02 12:54:55 [INFO] [GeoPalz] Disabling GeoPalz v1.1
+2013-05-02 12:54:55 [INFO] [GeoPalz] Plugin disabled.
+2013-05-02 12:54:55 [INFO] [GriefPrevention] Disabling GriefPrevention v7.7
+2013-05-02 12:54:55 [INFO] GriefPrevention: GriefPrevention disabled.
+2013-05-02 12:54:55 [INFO] 229 recipes
+2013-05-02 12:54:55 [INFO] [GriefPrevention] Loading GriefPrevention v7.7
+2013-05-02 12:54:55 [INFO] [GeoPalz] Loading GeoPalz v1.1
+2013-05-02 12:54:55 [INFO] [GriefPrevention] Enabling GriefPrevention v7.7
+2013-05-02 12:54:55 [INFO] GriefPrevention: Grief Prevention enabled.
+2013-05-02 12:54:55 [INFO] GriefPrevention: 0 total claims loaded.
+2013-05-02 12:54:55 [INFO] GriefPrevention: 0 players have staked claims.
+2013-05-02 12:54:55 [INFO] [GeoPalz] Enabling GeoPalz v1.1
+2013-05-02 12:54:55 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2013-05-02 12:54:55 [INFO] CONSOLE: [0;32;1mReload complete.[m
+2013-05-02 12:56:54 [INFO] [GeoPalz] Disabling GeoPalz v1.1
+2013-05-02 12:56:54 [INFO] [GeoPalz] Plugin disabled.
+2013-05-02 12:56:54 [INFO] [GriefPrevention] Disabling GriefPrevention v7.7
+2013-05-02 12:56:54 [INFO] GriefPrevention: GriefPrevention disabled.
+2013-05-02 12:56:54 [INFO] 229 recipes
+2013-05-02 12:56:54 [INFO] [GriefPrevention] Loading GriefPrevention v7.7
+2013-05-02 12:56:54 [INFO] [GeoPalz] Loading GeoPalz v1.1
+2013-05-02 12:56:54 [INFO] [GriefPrevention] Enabling GriefPrevention v7.7
+2013-05-02 12:56:54 [INFO] GriefPrevention: Grief Prevention enabled.
+2013-05-02 12:56:54 [INFO] GriefPrevention: 0 total claims loaded.
+2013-05-02 12:56:54 [INFO] GriefPrevention: 0 players have staked claims.
+2013-05-02 12:56:54 [INFO] [GeoPalz] Enabling GeoPalz v1.1
+2013-05-02 12:56:54 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2013-05-02 12:56:54 [INFO] CONSOLE: [0;32;1mReload complete.[m
+2013-05-02 12:56:56 [INFO] /127.0.0.1:64664 lost connection
+2013-05-02 12:56:59 [INFO] JacksonGariety[/127.0.0.1:64666] logged in with entity id 279 at ([world] -249.7606004410942, 64.0, 67.76728529947391)
+2013-05-02 12:57:04 [INFO] JacksonGariety issued server command: /login farts qwerty
+2013-05-02 12:57:04 [INFO] [GeoPalz] 1326
+2013-05-02 12:57:04 [INFO] [GeoPalz] JacksonGariety[127.0.0.1] logged in
+2013-05-02 12:57:04 [INFO] [GeoPalz] null
+2013-05-02 12:57:05 [INFO] [GeoPalz] 1
+2013-05-02 12:57:06 [INFO] [GeoPalz] 2
+2013-05-02 12:57:07 [INFO] [GeoPalz] 3
+2013-05-02 12:57:08 [INFO] [GeoPalz] 4
+2013-05-02 12:57:09 [INFO] [GeoPalz] 5
+2013-05-02 12:57:10 [INFO] [GeoPalz] 6
+2013-05-02 12:57:10 [INFO] JacksonGariety issued server command: /logout
+2013-05-02 12:57:10 [INFO] [GeoPalz] farts played for 7 seconds.
+2013-05-02 12:57:11 [INFO] [GeoPalz] {"status":0,"data":"OK"}
+2013-05-02 12:57:17 [INFO] JacksonGariety issued server command: /login farts qwerty
+2013-05-02 12:57:18 [INFO] [GeoPalz] 1319
+2013-05-02 12:57:18 [INFO] [GeoPalz] JacksonGariety[127.0.0.1] logged in
+2013-05-02 12:57:18 [INFO] [GeoPalz] null
+2013-05-02 12:57:19 [INFO] [GeoPalz] 1
+2013-05-02 12:57:20 [INFO] [GeoPalz] 2
+2013-05-02 12:57:21 [INFO] [GeoPalz] 3
+2013-05-02 12:57:22 [INFO] [GeoPalz] 4
+2013-05-02 12:57:23 [INFO] [GeoPalz] 5
+2013-05-02 12:57:23 [INFO] JacksonGariety issued server command: /logout
+2013-05-02 12:57:23 [INFO] [GeoPalz] farts played for 6 seconds.
+2013-05-02 12:57:23 [INFO] [GeoPalz] {"status":0,"data":"OK"}
+2013-05-02 12:57:27 [INFO] JacksonGariety issued server command: /login farts qwerty
+2013-05-02 12:57:28 [INFO] [GeoPalz] 1313
+2013-05-02 12:57:28 [INFO] [GeoPalz] JacksonGariety[127.0.0.1] logged in
+2013-05-02 12:57:28 [INFO] [GeoPalz] null
+2013-05-02 12:57:29 [INFO] [GeoPalz] 1
+2013-05-02 12:57:30 [INFO] [GeoPalz] 2
+2013-05-02 12:57:31 [INFO] [GeoPalz] 3
+2013-05-02 12:57:32 [INFO] [GeoPalz] 4
+2013-05-02 12:57:33 [INFO] [GeoPalz] 5
+2013-05-02 12:57:33 [INFO] JacksonGariety issued server command: /logout
+2013-05-02 12:57:33 [INFO] [GeoPalz] farts played for 6 seconds.
+2013-05-02 12:57:33 [INFO] [GeoPalz] {"status":0,"data":"OK"}
+2013-05-02 12:57:37 [INFO] JacksonGariety lost connection: disconnect.quitting
+2013-05-02 12:57:37 [INFO] Connection reset
+2013-05-02 12:57:37 [SEVERE] Could not pass event PlayerQuitEvent to GeoPalz v1.1
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:427)
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:477)
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:462)
+	at net.minecraft.server.v1_5_R3.PlayerList.disconnect(PlayerList.java:254)
+	at net.minecraft.server.v1_5_R3.PlayerConnection.a(PlayerConnection.java:692)
+	at net.minecraft.server.v1_5_R3.NetworkManager.b(NetworkManager.java:297)
+	at net.minecraft.server.v1_5_R3.PlayerConnection.d(PlayerConnection.java:110)
+	at net.minecraft.server.v1_5_R3.ServerConnection.b(SourceFile:35)
+	at net.minecraft.server.v1_5_R3.DedicatedServerConnection.b(SourceFile:30)
+	at net.minecraft.server.v1_5_R3.MinecraftServer.r(MinecraftServer.java:581)
+	at net.minecraft.server.v1_5_R3.DedicatedServer.r(DedicatedServer.java:226)
+	at net.minecraft.server.v1_5_R3.MinecraftServer.q(MinecraftServer.java:477)
+	at net.minecraft.server.v1_5_R3.MinecraftServer.run(MinecraftServer.java:410)
+	at net.minecraft.server.v1_5_R3.ThreadServerApplication.run(SourceFile:573)
+Caused by: java.lang.NullPointerException
+	at org.vijos.auth.listener.LoginListener.onPlayerQuit(LoginListener.java:37)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:601)
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:425)
+	... 14 more
+2013-05-02 12:57:38 [INFO] Stopping server
+2013-05-03 11:33:12 [INFO] Starting minecraft server version 1.5.2
+2013-05-03 11:33:12 [INFO] Loading properties
+2013-05-03 11:33:12 [INFO] Default game type: SURVIVAL
+2013-05-03 11:33:12 [INFO] Generating keypair
+2013-05-03 11:33:12 [INFO] Starting Minecraft server on *:25565
+2013-05-03 11:33:13 [INFO] This server is running CraftBukkit version git-Bukkit-1.5.1-R0.2-11-g8205884-b2765jnks (MC: 1.5.2) (Implementing API version 1.5.2-R0.1-SNAPSHOT)
+2013-05-03 11:33:13 [INFO] [GriefPrevention] Loading GriefPrevention v7.7
+2013-05-03 11:33:13 [INFO] [GeoPalz] Loading GeoPalz v1.1
+2013-05-03 11:33:13 [INFO] Preparing level "world"
+2013-05-03 11:33:13 [INFO] Preparing start region for level 0 (Seed: 7690574297994991252)
+2013-05-03 11:33:14 [INFO] Preparing start region for level 1 (Seed: 7690574297994991252)
+2013-05-03 11:33:14 [INFO] ----- Bukkit Auto Updater -----
+2013-05-03 11:33:14 [INFO] It appears that you're running a Development Build, when you've specified in bukkit.yml that you prefer to run Recommended Builds.
+2013-05-03 11:33:14 [INFO] If you would like to be kept informed about new Development Build releases, it is recommended that you change 'preferred-channel' in your bukkit.yml to 'dev'.
+2013-05-03 11:33:14 [INFO] With that set, you will be told whenever a new version is available for download, so that you can always keep up to date and secure with the latest fixes.
+2013-05-03 11:33:14 [INFO] If you would like to disable this warning, simply set 'suggest-channels' to false in bukkit.yml.
+2013-05-03 11:33:14 [INFO] ----- ------------------- -----
+2013-05-03 11:33:14 [INFO] Preparing spawn area: 45%
+2013-05-03 11:33:14 [INFO] Preparing start region for level 2 (Seed: 7690574297994991252)
+2013-05-03 11:33:15 [INFO] [GriefPrevention] Enabling GriefPrevention v7.7
+2013-05-03 11:33:15 [INFO] GriefPrevention: Grief Prevention enabled.
+2013-05-03 11:33:15 [INFO] GriefPrevention: 0 total claims loaded.
+2013-05-03 11:33:15 [INFO] GriefPrevention: 0 players have staked claims.
+2013-05-03 11:33:15 [INFO] [GeoPalz] Enabling GeoPalz v1.1
+2013-05-03 11:33:15 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2013-05-03 11:33:15 [INFO] Stopping server

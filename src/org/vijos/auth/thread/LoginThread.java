@@ -15,6 +15,7 @@ public class LoginThread extends Thread {
 	public String password;
 	public VijosLogin plugin;
 	public Player player;
+	static int repeater = 0;
 	
 	public LoginThread(String username, String password, VijosLogin plugin, Player player, Boolean putLoging) {
 		this.username = username;
@@ -59,21 +60,25 @@ public class LoginThread extends Thread {
 					player.getInventory().addItem(new ItemStack(46, 10));
 				
 				// Increment time every second
-				VijosLogin.i().getServer().getScheduler().scheduleSyncRepeatingTask(VijosLogin.i(), new Runnable() {
+				repeater = VijosLogin.i().getServer().getScheduler().scheduleSyncRepeatingTask(VijosLogin.i(), new Runnable() {
 					int starting_time = line;
 					int played_time = 0;
 					
 					@Override
 					public void run() {
-						int remaining_time = starting_time - played_time;
-						
-						// Let the player know how many seconds they have left if time remaining is a multiple of 5 minutes
-						if (remaining_time % 300 == 0 || remaining_time == starting_time)
-							player.sendMessage("You have " + String.valueOf(remaining_time) + " seconds of play time remaining.");
-						
-						// Increment played time by 1 second
-						played_time++;
-						Sessions.i().played_times.put(player.getName().toLowerCase(), played_time);
+						if (Sessions.i().usernames.containsKey(player.getName().toLowerCase())) {
+							int remaining_time = starting_time - played_time;
+							
+							// Let the player know how many seconds they have left if time remaining is a multiple of 5 minutes
+							if (remaining_time % 300 == 0 || remaining_time == starting_time)
+								player.sendMessage("You have " + String.valueOf(remaining_time) + " seconds of play time remaining.");
+							
+							// Increment played time by 1 second
+							played_time++;
+							ConsoleLogger.i().info(String.valueOf(Sessions.i().played_times.put(player.getName().toLowerCase(), played_time)));
+						} else {
+							VijosLogin.i().getServer().getScheduler().cancelTask(repeater);
+						}
 					}
 				}, 0L, 20L);
 				

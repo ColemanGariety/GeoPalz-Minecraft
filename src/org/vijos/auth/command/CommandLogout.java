@@ -4,8 +4,6 @@ import org.bukkit.command.CommandSender;
 import org.bukkit.entity.Player;
 
 import org.vijos.auth.data.Sessions;
-import org.vijos.auth.lib.API;
-import org.vijos.auth.lib.ConsoleLogger;
 
 public class CommandLogout {
 	
@@ -21,10 +19,6 @@ public class CommandLogout {
 			return false;
 		}
 		
-		String username = Sessions.i().usernames.get(player.getName().toLowerCase());
-		String password = Sessions.i().passwords.get(player.getName().toLowerCase());
-		int played_time = Sessions.i().played_times.get(player.getName().toLowerCase());
-		
 		if (args.length != 0) return false; 
 		
 		if (Sessions.i().getLogin(sender) == false){
@@ -33,10 +27,6 @@ public class CommandLogout {
 		}
 		
 		Sessions.i().delLogin(player);
-		
-		ConsoleLogger.i().info(username + " played for " + String.valueOf(played_time) + " seconds.");
-	
-		API.i().sendTime(username, password, played_time);
 		
 		sender.sendMessage("\u00A7a[GeoPalz]\u00A7f \u00A7bLogged out successfully.\u00A7f");
 		

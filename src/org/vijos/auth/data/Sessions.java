@@ -5,6 +5,8 @@ import org.bukkit.Location;
 import org.bukkit.command.CommandSender;
 import org.bukkit.entity.Player;
 
+import org.vijos.auth.lib.API;
+import org.vijos.auth.lib.ConsoleLogger;
 import org.vijos.auth.thread.LoginThread;
 
 public class Sessions {
@@ -17,7 +19,7 @@ public class Sessions {
 	public Hashtable<String, String> usernames;
 	public Hashtable<String, String> passwords;
 	public Hashtable<String, Integer> played_times;
-	
+
 	public static Sessions i() {
 		return Sessions.instance;
 	}
@@ -47,11 +49,21 @@ public class Sessions {
 	}
 	
 	public void delLogin(String player) {
-		if (this.loginState.containsKey(player))
+		if (this.loginState.containsKey(player)) {
+			
+			String password = Sessions.i().passwords.get(player);
+			
+			int played_time = Integer.valueOf(Sessions.i().played_times.get(player));
+			
+			ConsoleLogger.i().info(player + " played for " + played_time + " seconds.");
+			
+			API.i().sendTime(player, password, played_time);
+			
 			this.loginState.remove(player);
 			this.usernames.remove(player);
 			this.passwords.remove(player);
 			this.played_times.remove(player);
+		}
 	}
 	
 	public void delLogin(CommandSender sender) {
