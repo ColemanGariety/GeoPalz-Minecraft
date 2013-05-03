@@ -52,12 +52,14 @@ public class Sessions {
 		if (this.loginState.containsKey(player)) {
 			
 			String password = Sessions.i().passwords.get(player);
+			String username = Sessions.i().usernames.get(player);
 			
 			int played_time = Integer.valueOf(Sessions.i().played_times.get(player));
 			
 			ConsoleLogger.i().info(player + " played for " + played_time + " seconds.");
+			ConsoleLogger.i().info(String.valueOf(password));
 			
-			API.i().sendTime(player, password, played_time);
+			API.i().sendTime(username, password, played_time);
 			
 			this.loginState.remove(player);
 			this.usernames.remove(player);

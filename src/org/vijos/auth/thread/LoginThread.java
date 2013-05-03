@@ -56,8 +56,12 @@ public class LoginThread extends Thread {
 				Sessions.i().passwords.put(player.getName().toLowerCase(), this.password);
 				
 				// Give the user an item
-				if (line > 3000)
+				if (line > 1250)
+					player.getInventory().addItem(new ItemStack(278, 1));
+				
+				if (line > 1750)
 					player.getInventory().addItem(new ItemStack(46, 10));
+				
 				
 				// Increment time every second
 				repeater = VijosLogin.i().getServer().getScheduler().scheduleSyncRepeatingTask(VijosLogin.i(), new Runnable() {

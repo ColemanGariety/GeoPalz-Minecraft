@@ -7306,3 +7306,428 @@ Caused by: java.lang.NullPointerException
 2013-05-03 11:33:15 [INFO] [GeoPalz] Enabling GeoPalz v1.1
 2013-05-03 11:33:15 [INFO] Server permissions file permissions.yml is empty, ignoring it
 2013-05-03 11:33:15 [INFO] Stopping server
+2013-05-03 11:36:14 [INFO] Starting minecraft server version 1.5.2
+2013-05-03 11:36:14 [INFO] Loading properties
+2013-05-03 11:36:14 [INFO] Default game type: SURVIVAL
+2013-05-03 11:36:14 [INFO] Generating keypair
+2013-05-03 11:36:15 [INFO] Starting Minecraft server on *:25565
+2013-05-03 11:36:15 [INFO] This server is running CraftBukkit version git-Bukkit-1.5.1-R0.2-11-g8205884-b2765jnks (MC: 1.5.2) (Implementing API version 1.5.2-R0.1-SNAPSHOT)
+2013-05-03 11:36:16 [INFO] [GriefPrevention] Loading GriefPrevention v7.7
+2013-05-03 11:36:16 [INFO] [GeoPalz] Loading GeoPalz v1.1
+2013-05-03 11:36:16 [INFO] Preparing level "world"
+2013-05-03 11:36:16 [INFO] Preparing start region for level 0 (Seed: 7690574297994991252)
+2013-05-03 11:36:17 [INFO] ----- Bukkit Auto Updater -----
+2013-05-03 11:36:17 [INFO] It appears that you're running a Development Build, when you've specified in bukkit.yml that you prefer to run Recommended Builds.
+2013-05-03 11:36:17 [INFO] If you would like to be kept informed about new Development Build releases, it is recommended that you change 'preferred-channel' in your bukkit.yml to 'dev'.
+2013-05-03 11:36:17 [INFO] With that set, you will be told whenever a new version is available for download, so that you can always keep up to date and secure with the latest fixes.
+2013-05-03 11:36:17 [INFO] If you would like to disable this warning, simply set 'suggest-channels' to false in bukkit.yml.
+2013-05-03 11:36:17 [INFO] ----- ------------------- -----
+2013-05-03 11:36:17 [INFO] Preparing spawn area: 66%
+2013-05-03 11:36:17 [INFO] Preparing start region for level 1 (Seed: 7690574297994991252)
+2013-05-03 11:36:18 [INFO] Preparing spawn area: 74%
+2013-05-03 11:36:19 [INFO] Preparing start region for level 2 (Seed: 7690574297994991252)
+2013-05-03 11:36:19 [INFO] [GriefPrevention] Enabling GriefPrevention v7.7
+2013-05-03 11:36:19 [INFO] GriefPrevention: Grief Prevention enabled.
+2013-05-03 11:36:19 [INFO] GriefPrevention: 0 total claims loaded.
+2013-05-03 11:36:19 [INFO] GriefPrevention: 0 players have staked claims.
+2013-05-03 11:36:20 [INFO] [GeoPalz] Enabling GeoPalz v1.1
+2013-05-03 11:36:20 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2013-05-03 11:36:21 [INFO] Done (4.955s)! For help, type "help" or "?"
+2013-05-03 11:36:30 [INFO] JacksonGariety[/127.0.0.1:55988] logged in with entity id 198 at ([world] -252.0, 64.0, 67.0)
+2013-05-03 11:36:38 [INFO] JacksonGariety issued server command: /login farts qwerty
+2013-05-03 11:36:39 [INFO] [GeoPalz] 0
+2013-05-03 11:36:39 [INFO] [GeoPalz] JacksonGariety[127.0.0.1] logged in
+2013-05-03 11:36:39 [INFO] [GeoPalz] null
+2013-05-03 11:36:39 [INFO] [GeoPalz] jacksongariety played for 1 seconds.
+2013-05-03 11:36:39 [INFO] [GeoPalz] {"status":1,"error_type":"2","error_msg":"invalid user_name or user_pw"}
+2013-05-03 11:36:39 [INFO] JacksonGariety lost connection: disconnect.endOfStream
+2013-05-03 11:37:29 [INFO] JacksonGariety[/127.0.0.1:56056] logged in with entity id 211 at ([world] -252.0, 64.0, 67.0)
+2013-05-03 11:37:37 [INFO] JacksonGariety issued server command: /login farts qwerty
+2013-05-03 11:37:38 [INFO] [GeoPalz] 2250
+2013-05-03 11:37:38 [INFO] [GeoPalz] JacksonGariety[127.0.0.1] logged in
+2013-05-03 11:37:38 [INFO] [GeoPalz] null
+2013-05-03 11:37:39 [INFO] [GeoPalz] 1
+2013-05-03 11:37:40 [INFO] [GeoPalz] 2
+2013-05-03 11:37:41 [INFO] [GeoPalz] 3
+2013-05-03 11:37:42 [INFO] [GeoPalz] 4
+2013-05-03 11:37:43 [INFO] [GeoPalz] 5
+2013-05-03 11:37:44 [INFO] [GeoPalz] 6
+2013-05-03 11:37:45 [INFO] [GeoPalz] 7
+2013-05-03 11:37:46 [INFO] [GeoPalz] 8
+2013-05-03 11:37:47 [INFO] [GeoPalz] 9
+2013-05-03 11:37:48 [INFO] [GeoPalz] 10
+2013-05-03 11:37:49 [INFO] [GeoPalz] 11
+2013-05-03 11:37:50 [INFO] [GeoPalz] 12
+2013-05-03 11:37:51 [INFO] [GeoPalz] 13
+2013-05-03 11:37:52 [INFO] [GeoPalz] 14
+2013-05-03 11:37:53 [INFO] [GeoPalz] 15
+2013-05-03 11:37:54 [INFO] JacksonGariety issued server command: /logout
+2013-05-03 11:37:54 [INFO] [GeoPalz] jacksongariety played for 16 seconds.
+2013-05-03 11:37:54 [INFO] [GeoPalz] {"status":1,"error_type":"2","error_msg":"invalid user_name or user_pw"}
+2013-05-03 11:37:59 [INFO] JacksonGariety issued server command: /login farts qwerty
+2013-05-03 11:38:00 [INFO] [GeoPalz] 2250
+2013-05-03 11:38:00 [INFO] [GeoPalz] JacksonGariety[127.0.0.1] logged in
+2013-05-03 11:38:00 [INFO] [GeoPalz] null
+2013-05-03 11:38:01 [INFO] [GeoPalz] 1
+2013-05-03 11:38:02 [INFO] [GeoPalz] 2
+2013-05-03 11:38:03 [INFO] [GeoPalz] 3
+2013-05-03 11:38:04 [INFO] [GeoPalz] 4
+2013-05-03 11:38:05 [INFO] [GeoPalz] 5
+2013-05-03 11:38:06 [INFO] [GeoPalz] 6
+2013-05-03 11:38:07 [INFO] [GeoPalz] 7
+2013-05-03 11:38:08 [INFO] [GeoPalz] 8
+2013-05-03 11:38:08 [INFO] JacksonGariety lost connection: disconnect.quitting
+2013-05-03 11:38:08 [INFO] Connection reset
+2013-05-03 11:38:08 [INFO] [GeoPalz] jacksongariety played for 9 seconds.
+2013-05-03 11:38:08 [INFO] [GeoPalz] {"status":1,"error_type":"2","error_msg":"invalid user_name or user_pw"}
+2013-05-03 11:38:12 [INFO] JacksonGariety[/127.0.0.1:56077] logged in with entity id 328 at ([world] -244.80980119034498, 65.0, 73.5075854193085)
+2013-05-03 11:38:19 [INFO] JacksonGariety issued server command: /login 1 2
+2013-05-03 11:38:20 [INFO] [GeoPalz] -1
+2013-05-03 11:38:28 [INFO] JacksonGariety issued server command: /login farts qwerty
+2013-05-03 11:38:28 [INFO] [GeoPalz] 2250
+2013-05-03 11:38:28 [INFO] [GeoPalz] JacksonGariety[127.0.0.1] logged in
+2013-05-03 11:38:28 [INFO] [GeoPalz] null
+2013-05-03 11:38:29 [INFO] [GeoPalz] 1
+2013-05-03 11:38:30 [INFO] [GeoPalz] 2
+2013-05-03 11:38:31 [INFO] JacksonGariety issued server command: /logout
+2013-05-03 11:38:31 [INFO] [GeoPalz] jacksongariety played for 3 seconds.
+2013-05-03 11:38:31 [INFO] [GeoPalz] {"status":1,"error_type":"2","error_msg":"invalid user_name or user_pw"}
+2013-05-03 11:39:22 [INFO] JacksonGariety issued server command: /login farts qwerty
+2013-05-03 11:39:22 [INFO] [GeoPalz] 2250
+2013-05-03 11:39:22 [INFO] [GeoPalz] JacksonGariety[127.0.0.1] logged in
+2013-05-03 11:39:22 [INFO] [GeoPalz] null
+2013-05-03 11:39:23 [INFO] [GeoPalz] 1
+2013-05-03 11:39:24 [INFO] [GeoPalz] 2
+2013-05-03 11:39:25 [INFO] [GeoPalz] 3
+2013-05-03 11:39:26 [INFO] [GeoPalz] 4
+2013-05-03 11:39:27 [INFO] [GeoPalz] 5
+2013-05-03 11:39:28 [INFO] [GeoPalz] 6
+2013-05-03 11:39:29 [INFO] JacksonGariety issued server command: /logout
+2013-05-03 11:39:29 [INFO] [GeoPalz] jacksongariety played for 7 seconds.
+2013-05-03 11:39:29 [INFO] [GeoPalz] {"status":1,"error_type":"2","error_msg":"invalid user_name or user_pw"}
+2013-05-03 11:39:33 [INFO] JacksonGariety issued server command: /login farts qwerty
+2013-05-03 11:39:34 [INFO] [GeoPalz] 2250
+2013-05-03 11:39:34 [INFO] [GeoPalz] JacksonGariety[127.0.0.1] logged in
+2013-05-03 11:39:34 [INFO] [GeoPalz] null
+2013-05-03 11:39:35 [INFO] [GeoPalz] 1
+2013-05-03 11:39:36 [INFO] [GeoPalz] 2
+2013-05-03 11:39:37 [INFO] [GeoPalz] 3
+2013-05-03 11:39:38 [INFO] [GeoPalz] 4
+2013-05-03 11:39:39 [INFO] [GeoPalz] 5
+2013-05-03 11:39:40 [INFO] [GeoPalz] 6
+2013-05-03 11:39:41 [INFO] [GeoPalz] 7
+2013-05-03 11:39:42 [INFO] [GeoPalz] 8
+2013-05-03 11:39:43 [INFO] [GeoPalz] 9
+2013-05-03 11:39:44 [INFO] [GeoPalz] 10
+2013-05-03 11:39:45 [INFO] [GeoPalz] 11
+2013-05-03 11:39:46 [INFO] [GeoPalz] 12
+2013-05-03 11:39:47 [INFO] [GeoPalz] 13
+2013-05-03 11:39:48 [INFO] [GeoPalz] 14
+2013-05-03 11:39:49 [INFO] [GeoPalz] 15
+2013-05-03 11:39:50 [INFO] [GeoPalz] 16
+2013-05-03 11:39:51 [INFO] [GeoPalz] 17
+2013-05-03 11:39:52 [INFO] [GeoPalz] 18
+2013-05-03 11:39:53 [INFO] [GeoPalz] 19
+2013-05-03 11:39:54 [INFO] [GeoPalz] 20
+2013-05-03 11:39:55 [INFO] [GeoPalz] 21
+2013-05-03 11:39:56 [INFO] [GeoPalz] 22
+2013-05-03 11:39:57 [INFO] [GeoPalz] 23
+2013-05-03 11:39:58 [INFO] [GeoPalz] 24
+2013-05-03 11:39:59 [INFO] [GeoPalz] 25
+2013-05-03 11:40:00 [INFO] [GeoPalz] 26
+2013-05-03 11:40:01 [INFO] [GeoPalz] 27
+2013-05-03 11:40:02 [INFO] [GeoPalz] 28
+2013-05-03 11:40:03 [INFO] [GeoPalz] 29
+2013-05-03 11:40:04 [INFO] [GeoPalz] 30
+2013-05-03 11:40:05 [INFO] [GeoPalz] 31
+2013-05-03 11:40:06 [INFO] [GeoPalz] 32
+2013-05-03 11:40:07 [INFO] [GeoPalz] 33
+2013-05-03 11:40:08 [INFO] [GeoPalz] 34
+2013-05-03 11:40:09 [INFO] [GeoPalz] 35
+2013-05-03 11:40:10 [INFO] [GeoPalz] 36
+2013-05-03 11:40:11 [INFO] [GeoPalz] 37
+2013-05-03 11:40:12 [INFO] [GeoPalz] 38
+2013-05-03 11:40:13 [INFO] [GeoPalz] 39
+2013-05-03 11:40:14 [INFO] [GeoPalz] 40
+2013-05-03 11:40:15 [INFO] [GeoPalz] 41
+2013-05-03 11:40:16 [INFO] [GeoPalz] 42
+2013-05-03 11:40:17 [INFO] [GeoPalz] 43
+2013-05-03 11:40:18 [INFO] [GeoPalz] 44
+2013-05-03 11:40:19 [INFO] [GeoPalz] 45
+2013-05-03 11:40:20 [INFO] [GeoPalz] 46
+2013-05-03 11:40:21 [INFO] [GeoPalz] 47
+2013-05-03 11:40:22 [INFO] [GeoPalz] 48
+2013-05-03 11:40:23 [INFO] [GeoPalz] 49
+2013-05-03 11:40:24 [INFO] [GeoPalz] 50
+2013-05-03 11:40:25 [INFO] [GeoPalz] 51
+2013-05-03 11:40:26 [INFO] [GeoPalz] 52
+2013-05-03 11:40:27 [INFO] [GeoPalz] 53
+2013-05-03 11:40:28 [INFO] [GeoPalz] 54
+2013-05-03 11:40:29 [INFO] [GeoPalz] 55
+2013-05-03 11:40:30 [INFO] [GeoPalz] 56
+2013-05-03 11:40:31 [INFO] [GeoPalz] 57
+2013-05-03 11:40:32 [INFO] [GeoPalz] 58
+2013-05-03 11:40:33 [INFO] [GeoPalz] 59
+2013-05-03 11:40:34 [INFO] [GeoPalz] 60
+2013-05-03 11:40:35 [INFO] [GeoPalz] 61
+2013-05-03 11:40:36 [INFO] [GeoPalz] 62
+2013-05-03 11:40:37 [INFO] [GeoPalz] 63
+2013-05-03 11:40:38 [INFO] [GeoPalz] 64
+2013-05-03 11:40:39 [INFO] [GeoPalz] 65
+2013-05-03 11:40:40 [INFO] [GeoPalz] 66
+2013-05-03 11:40:41 [INFO] [GeoPalz] 67
+2013-05-03 11:40:42 [INFO] [GeoPalz] 68
+2013-05-03 11:40:43 [INFO] [GeoPalz] 69
+2013-05-03 11:40:44 [INFO] [GeoPalz] 70
+2013-05-03 11:40:45 [INFO] [GeoPalz] 71
+2013-05-03 11:40:46 [INFO] [GeoPalz] 72
+2013-05-03 11:40:47 [INFO] [GeoPalz] 73
+2013-05-03 11:40:48 [INFO] [GeoPalz] 74
+2013-05-03 11:40:49 [INFO] [GeoPalz] 75
+2013-05-03 11:40:50 [INFO] [GeoPalz] 76
+2013-05-03 11:40:51 [INFO] [GeoPalz] 77
+2013-05-03 11:40:52 [INFO] [GeoPalz] 78
+2013-05-03 11:40:53 [INFO] [GeoPalz] 79
+2013-05-03 11:40:54 [INFO] [GeoPalz] 80
+2013-05-03 11:40:55 [INFO] [GeoPalz] 81
+2013-05-03 11:40:56 [INFO] [GeoPalz] 82
+2013-05-03 11:40:57 [INFO] [GeoPalz] 83
+2013-05-03 11:40:58 [INFO] [GeoPalz] 84
+2013-05-03 11:40:59 [INFO] [GeoPalz] 85
+2013-05-03 11:41:00 [INFO] [GeoPalz] 86
+2013-05-03 11:41:01 [INFO] [GeoPalz] 87
+2013-05-03 11:41:02 [INFO] [GeoPalz] 88
+2013-05-03 11:41:03 [INFO] [GeoPalz] 89
+2013-05-03 11:41:04 [INFO] [GeoPalz] 90
+2013-05-03 11:41:05 [INFO] [GeoPalz] 91
+2013-05-03 11:41:06 [INFO] [GeoPalz] 92
+2013-05-03 11:41:07 [INFO] [GeoPalz] 93
+2013-05-03 11:41:08 [INFO] [GeoPalz] 94
+2013-05-03 11:41:09 [INFO] [GeoPalz] 95
+2013-05-03 11:41:10 [INFO] [GeoPalz] 96
+2013-05-03 11:41:11 [INFO] [GeoPalz] 97
+2013-05-03 11:41:12 [INFO] [GeoPalz] 98
+2013-05-03 11:41:13 [INFO] [GeoPalz] 99
+2013-05-03 11:41:14 [INFO] [GeoPalz] 100
+2013-05-03 11:41:15 [INFO] [GeoPalz] 101
+2013-05-03 11:41:16 [INFO] [GeoPalz] 102
+2013-05-03 11:41:17 [INFO] [GeoPalz] 103
+2013-05-03 11:41:18 [INFO] [GeoPalz] 104
+2013-05-03 11:41:19 [INFO] [GeoPalz] 105
+2013-05-03 11:41:20 [INFO] [GeoPalz] 106
+2013-05-03 11:41:21 [INFO] [GeoPalz] 107
+2013-05-03 11:41:22 [INFO] [GeoPalz] 108
+2013-05-03 11:41:23 [INFO] [GeoPalz] 109
+2013-05-03 11:41:24 [INFO] [GeoPalz] 110
+2013-05-03 11:41:25 [INFO] [GeoPalz] 111
+2013-05-03 11:41:26 [INFO] [GeoPalz] 112
+2013-05-03 11:41:27 [INFO] [GeoPalz] 113
+2013-05-03 11:41:28 [INFO] [GeoPalz] 114
+2013-05-03 11:41:29 [INFO] [GeoPalz] 115
+2013-05-03 11:41:30 [INFO] [GeoPalz] 116
+2013-05-03 11:41:31 [INFO] [GeoPalz] 117
+2013-05-03 11:41:32 [INFO] [GeoPalz] 118
+2013-05-03 11:41:33 [INFO] [GeoPalz] 119
+2013-05-03 11:41:34 [INFO] [GeoPalz] 120
+2013-05-03 11:41:35 [INFO] [GeoPalz] 121
+2013-05-03 11:41:36 [INFO] [GeoPalz] 122
+2013-05-03 11:41:37 [INFO] [GeoPalz] 123
+2013-05-03 11:41:38 [INFO] [GeoPalz] 124
+2013-05-03 11:41:39 [INFO] [GeoPalz] 125
+2013-05-03 11:41:40 [INFO] [GeoPalz] 126
+2013-05-03 11:41:41 [INFO] [GeoPalz] 127
+2013-05-03 11:41:42 [INFO] [GeoPalz] 128
+2013-05-03 11:41:43 [INFO] [GeoPalz] 129
+2013-05-03 11:41:44 [INFO] [GeoPalz] 130
+2013-05-03 11:41:45 [INFO] [GeoPalz] 131
+2013-05-03 11:41:46 [INFO] [GeoPalz] 132
+2013-05-03 11:41:47 [INFO] [GeoPalz] 133
+2013-05-03 11:41:48 [INFO] [GeoPalz] 134
+2013-05-03 11:41:49 [INFO] [GeoPalz] 135
+2013-05-03 11:41:50 [INFO] [GeoPalz] 136
+2013-05-03 11:41:51 [INFO] [GeoPalz] 137
+2013-05-03 11:41:52 [INFO] [GeoPalz] 138
+2013-05-03 11:41:53 [INFO] [GeoPalz] 139
+2013-05-03 11:41:54 [INFO] [GeoPalz] 140
+2013-05-03 11:41:55 [INFO] [GeoPalz] 141
+2013-05-03 11:41:56 [INFO] [GeoPalz] 142
+2013-05-03 11:41:57 [INFO] [GeoPalz] 143
+2013-05-03 11:41:58 [INFO] [GeoPalz] 144
+2013-05-03 11:41:59 [INFO] [GeoPalz] 145
+2013-05-03 11:42:00 [INFO] [GeoPalz] 146
+2013-05-03 11:42:01 [INFO] [GeoPalz] 147
+2013-05-03 11:42:02 [INFO] [GeoPalz] 148
+2013-05-03 11:42:03 [INFO] [GeoPalz] 149
+2013-05-03 11:42:04 [INFO] [GeoPalz] 150
+2013-05-03 11:42:05 [INFO] [GeoPalz] 151
+2013-05-03 11:42:06 [INFO] [GeoPalz] 152
+2013-05-03 11:42:07 [INFO] [GeoPalz] 153
+2013-05-03 11:42:08 [INFO] [GeoPalz] 154
+2013-05-03 11:42:09 [INFO] [GeoPalz] 155
+2013-05-03 11:42:10 [INFO] [GeoPalz] 156
+2013-05-03 11:42:11 [INFO] [GeoPalz] 157
+2013-05-03 11:42:12 [INFO] [GeoPalz] 158
+2013-05-03 11:42:13 [INFO] [GeoPalz] 159
+2013-05-03 11:42:14 [INFO] [GeoPalz] 160
+2013-05-03 11:42:15 [INFO] [GeoPalz] 161
+2013-05-03 11:42:16 [INFO] [GeoPalz] 162
+2013-05-03 11:42:17 [INFO] [GeoPalz] 163
+2013-05-03 11:42:18 [INFO] [GeoPalz] 164
+2013-05-03 11:42:19 [INFO] [GeoPalz] 165
+2013-05-03 11:42:20 [INFO] [GeoPalz] 166
+2013-05-03 11:42:21 [INFO] [GeoPalz] 167
+2013-05-03 11:42:22 [INFO] [GeoPalz] 168
+2013-05-03 11:42:23 [INFO] [GeoPalz] 169
+2013-05-03 11:42:24 [INFO] [GeoPalz] 170
+2013-05-03 11:42:25 [INFO] [GeoPalz] 171
+2013-05-03 11:42:26 [INFO] [GeoPalz] 172
+2013-05-03 11:42:27 [INFO] [GeoPalz] 173
+2013-05-03 11:42:28 [INFO] [GeoPalz] 174
+2013-05-03 11:42:29 [INFO] [GeoPalz] 175
+2013-05-03 11:42:30 [INFO] [GeoPalz] 176
+2013-05-03 11:42:31 [INFO] [GeoPalz] 177
+2013-05-03 11:42:32 [INFO] [GeoPalz] 178
+2013-05-03 11:42:33 [INFO] [GeoPalz] 179
+2013-05-03 11:42:34 [INFO] [GeoPalz] 180
+2013-05-03 11:42:35 [INFO] [GeoPalz] 181
+2013-05-03 11:42:35 [INFO] JacksonGariety issued server command: /logout
+2013-05-03 11:42:35 [INFO] [GeoPalz] jacksongariety played for 182 seconds.
+2013-05-03 11:42:36 [INFO] [GeoPalz] {"status":1,"error_type":"2","error_msg":"invalid user_name or user_pw"}
+2013-05-03 11:43:36 [INFO] [GeoPalz] Disabling GeoPalz v1.1
+2013-05-03 11:43:36 [INFO] [GeoPalz] Plugin disabled.
+2013-05-03 11:43:36 [INFO] [GriefPrevention] Disabling GriefPrevention v7.7
+2013-05-03 11:43:36 [INFO] GriefPrevention: GriefPrevention disabled.
+2013-05-03 11:43:36 [INFO] 229 recipes
+2013-05-03 11:43:36 [INFO] [GriefPrevention] Loading GriefPrevention v7.7
+2013-05-03 11:43:36 [INFO] [GeoPalz] Loading GeoPalz v1.1
+2013-05-03 11:43:36 [INFO] [GriefPrevention] Enabling GriefPrevention v7.7
+2013-05-03 11:43:36 [INFO] GriefPrevention: Grief Prevention enabled.
+2013-05-03 11:43:36 [INFO] GriefPrevention: 0 total claims loaded.
+2013-05-03 11:43:36 [INFO] GriefPrevention: 0 players have staked claims.
+2013-05-03 11:43:36 [INFO] [GeoPalz] Enabling GeoPalz v1.1
+2013-05-03 11:43:36 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2013-05-03 11:43:36 [INFO] CONSOLE: [0;32;1mReload complete.[m
+2013-05-03 11:43:39 [INFO] Connection reset
+2013-05-03 11:43:39 [INFO] JacksonGariety lost connection: disconnect.quitting
+2013-05-03 11:43:43 [INFO] JacksonGariety[/127.0.0.1:56375] logged in with entity id 1351 at ([world] -252.0, 64.0, 67.0)
+2013-05-03 11:43:48 [INFO] JacksonGariety issued server command: /login farts qwerty
+2013-05-03 11:43:49 [INFO] [GeoPalz] 2250
+2013-05-03 11:43:49 [INFO] [GeoPalz] JacksonGariety[127.0.0.1] logged in
+2013-05-03 11:43:49 [INFO] [GeoPalz] null
+2013-05-03 11:43:50 [INFO] [GeoPalz] 1
+2013-05-03 11:43:51 [INFO] [GeoPalz] 2
+2013-05-03 11:43:52 [INFO] [GeoPalz] 3
+2013-05-03 11:43:53 [INFO] [GeoPalz] 4
+2013-05-03 11:43:54 [INFO] [GeoPalz] 5
+2013-05-03 11:43:55 [INFO] [GeoPalz] 6
+2013-05-03 11:43:56 [INFO] [GeoPalz] 7
+2013-05-03 11:43:57 [INFO] [GeoPalz] 8
+2013-05-03 11:43:57 [INFO] JacksonGariety issued server command: /logout
+2013-05-03 11:43:57 [INFO] [GeoPalz] jacksongariety played for 9 seconds.
+2013-05-03 11:43:57 [INFO] [GeoPalz] qwerty
+2013-05-03 11:43:58 [INFO] [GeoPalz] {"status":1,"error_type":"2","error_msg":"invalid user_name or user_pw"}
+2013-05-03 11:47:22 [INFO] [GeoPalz] Disabling GeoPalz v1.1
+2013-05-03 11:47:22 [INFO] [GeoPalz] Plugin disabled.
+2013-05-03 11:47:22 [INFO] [GriefPrevention] Disabling GriefPrevention v7.7
+2013-05-03 11:47:22 [INFO] GriefPrevention: GriefPrevention disabled.
+2013-05-03 11:47:22 [INFO] 229 recipes
+2013-05-03 11:47:22 [INFO] [GriefPrevention] Loading GriefPrevention v7.7
+2013-05-03 11:47:22 [INFO] [GeoPalz] Loading GeoPalz v1.1
+2013-05-03 11:47:22 [INFO] [GriefPrevention] Enabling GriefPrevention v7.7
+2013-05-03 11:47:22 [INFO] GriefPrevention: Grief Prevention enabled.
+2013-05-03 11:47:22 [INFO] GriefPrevention: 0 total claims loaded.
+2013-05-03 11:47:22 [INFO] GriefPrevention: 0 players have staked claims.
+2013-05-03 11:47:22 [INFO] [GeoPalz] Enabling GeoPalz v1.1
+2013-05-03 11:47:22 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2013-05-03 11:47:22 [INFO] CONSOLE: [0;32;1mReload complete.[m
+2013-05-03 11:47:25 [INFO] JacksonGariety lost connection: disconnect.quitting
+2013-05-03 11:47:25 [INFO] Connection reset
+2013-05-03 11:47:28 [INFO] JacksonGariety[/127.0.0.1:56747] logged in with entity id 1990 at ([world] -252.0, 64.0, 67.0)
+2013-05-03 11:47:33 [INFO] JacksonGariety issued server command: /login farts qwerty
+2013-05-03 11:47:34 [INFO] [GeoPalz] 2250
+2013-05-03 11:47:34 [INFO] [GeoPalz] JacksonGariety[127.0.0.1] logged in
+2013-05-03 11:47:34 [INFO] [GeoPalz] null
+2013-05-03 11:47:35 [INFO] [GeoPalz] 1
+2013-05-03 11:47:36 [INFO] [GeoPalz] 2
+2013-05-03 11:47:37 [INFO] [GeoPalz] 3
+2013-05-03 11:47:37 [INFO] JacksonGariety issued server command: /logout
+2013-05-03 11:47:37 [INFO] [GeoPalz] jacksongariety played for 4 seconds.
+2013-05-03 11:47:37 [INFO] [GeoPalz] qwerty
+2013-05-03 11:47:38 [INFO] [GeoPalz] {"status":0,"data":"OK"}
+2013-05-03 11:48:23 [INFO] [GeoPalz] Disabling GeoPalz v1.1
+2013-05-03 11:48:23 [INFO] [GeoPalz] Plugin disabled.
+2013-05-03 11:48:23 [INFO] [GriefPrevention] Disabling GriefPrevention v7.7
+2013-05-03 11:48:23 [INFO] GriefPrevention: GriefPrevention disabled.
+2013-05-03 11:48:23 [INFO] 229 recipes
+2013-05-03 11:48:23 [INFO] [GriefPrevention] Loading GriefPrevention v7.7
+2013-05-03 11:48:23 [INFO] [GeoPalz] Loading GeoPalz v1.1
+2013-05-03 11:48:23 [INFO] [GriefPrevention] Enabling GriefPrevention v7.7
+2013-05-03 11:48:23 [INFO] GriefPrevention: Grief Prevention enabled.
+2013-05-03 11:48:23 [INFO] GriefPrevention: 0 total claims loaded.
+2013-05-03 11:48:23 [INFO] GriefPrevention: 0 players have staked claims.
+2013-05-03 11:48:24 [INFO] [GeoPalz] Enabling GeoPalz v1.1
+2013-05-03 11:48:24 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2013-05-03 11:48:24 [INFO] CONSOLE: [0;32;1mReload complete.[m
+2013-05-03 11:48:26 [INFO] JacksonGariety lost connection: disconnect.quitting
+2013-05-03 11:48:26 [INFO] Connection reset
+2013-05-03 11:48:29 [INFO] JacksonGariety[/127.0.0.1:56758] logged in with entity id 2143 at ([world] -252.0, 64.0, 67.0)
+2013-05-03 11:48:32 [INFO] JacksonGariety issued server command: /login q 2
+2013-05-03 11:48:32 [INFO] [GeoPalz] -1
+2013-05-03 11:48:36 [INFO] JacksonGariety issued server command: /login farts qwerty
+2013-05-03 11:48:37 [INFO] [GeoPalz] 2246
+2013-05-03 11:48:37 [INFO] [GeoPalz] JacksonGariety[127.0.0.1] logged in
+2013-05-03 11:48:37 [INFO] [GeoPalz] null
+2013-05-03 11:48:38 [INFO] [GeoPalz] 1
+2013-05-03 11:48:39 [INFO] [GeoPalz] 2
+2013-05-03 11:48:40 [INFO] [GeoPalz] 3
+2013-05-03 11:48:41 [INFO] [GeoPalz] 4
+2013-05-03 11:48:42 [INFO] [GeoPalz] 5
+2013-05-03 11:48:42 [INFO] JacksonGariety issued server command: /logout
+2013-05-03 11:48:42 [INFO] [GeoPalz] jacksongariety played for 6 seconds.
+2013-05-03 11:48:42 [INFO] [GeoPalz] qwerty
+2013-05-03 11:48:42 [INFO] [GeoPalz] jacksongariety : qwerty
+2013-05-03 11:48:43 [INFO] [GeoPalz] {"status":1,"error_type":"2","error_msg":"invalid user_name or user_pw"}
+2013-05-03 11:50:33 [INFO] [GeoPalz] Disabling GeoPalz v1.1
+2013-05-03 11:50:33 [INFO] [GeoPalz] Plugin disabled.
+2013-05-03 11:50:33 [INFO] [GriefPrevention] Disabling GriefPrevention v7.7
+2013-05-03 11:50:33 [INFO] GriefPrevention: GriefPrevention disabled.
+2013-05-03 11:50:33 [INFO] 229 recipes
+2013-05-03 11:50:33 [INFO] [GriefPrevention] Loading GriefPrevention v7.7
+2013-05-03 11:50:33 [INFO] [GeoPalz] Loading GeoPalz v1.1
+2013-05-03 11:50:33 [INFO] [GriefPrevention] Enabling GriefPrevention v7.7
+2013-05-03 11:50:33 [INFO] GriefPrevention: Grief Prevention enabled.
+2013-05-03 11:50:33 [INFO] GriefPrevention: 0 total claims loaded.
+2013-05-03 11:50:33 [INFO] GriefPrevention: 0 players have staked claims.
+2013-05-03 11:50:33 [INFO] [GeoPalz] Enabling GeoPalz v1.1
+2013-05-03 11:50:33 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2013-05-03 11:50:34 [INFO] CONSOLE: [0;32;1mReload complete.[m
+2013-05-03 11:50:39 [INFO] JacksonGariety issued server command: /login farts qwerty
+2013-05-03 11:50:40 [INFO] [GeoPalz] 2246
+2013-05-03 11:50:40 [INFO] [GeoPalz] JacksonGariety[127.0.0.1] logged in
+2013-05-03 11:50:40 [INFO] [GeoPalz] null
+2013-05-03 11:50:41 [INFO] [GeoPalz] 1
+2013-05-03 11:50:42 [INFO] [GeoPalz] 2
+2013-05-03 11:50:43 [INFO] [GeoPalz] 3
+2013-05-03 11:50:43 [INFO] JacksonGariety issued server command: /logout
+2013-05-03 11:50:43 [INFO] [GeoPalz] jacksongariety played for 4 seconds.
+2013-05-03 11:50:43 [INFO] [GeoPalz] qwerty
+2013-05-03 11:50:43 [INFO] [GeoPalz] {"status":0,"data":"OK"}
+2013-05-03 11:50:48 [INFO] JacksonGariety issued server command: /login farts qwerty
+2013-05-03 11:50:49 [INFO] [GeoPalz] 2242
+2013-05-03 11:50:49 [INFO] [GeoPalz] JacksonGariety[127.0.0.1] logged in
+2013-05-03 11:50:49 [INFO] [GeoPalz] null
+2013-05-03 11:50:50 [INFO] [GeoPalz] 1
+2013-05-03 11:50:51 [INFO] [GeoPalz] 2
+2013-05-03 11:50:52 [INFO] [GeoPalz] 3
+2013-05-03 11:50:53 [INFO] [GeoPalz] 4
+2013-05-03 11:50:54 [INFO] [GeoPalz] 5
+2013-05-03 11:50:55 [INFO] [GeoPalz] 6
+2013-05-03 11:50:56 [INFO] [GeoPalz] 7
+2013-05-03 11:50:57 [INFO] [GeoPalz] 8
+2013-05-03 11:50:57 [INFO] JacksonGariety issued server command: /logout
+2013-05-03 11:50:57 [INFO] [GeoPalz] jacksongariety played for 9 seconds.
+2013-05-03 11:50:57 [INFO] [GeoPalz] qwerty
+2013-05-03 11:50:57 [INFO] [GeoPalz] {"status":0,"data":"OK"}
+2013-05-03 11:51:38 [INFO] JacksonGariety lost connection: disconnect.quitting
+2013-05-03 11:51:38 [INFO] Connection reset
+2013-05-03 11:51:40 [INFO] Stopping server
